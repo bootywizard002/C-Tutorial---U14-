@@ -17,6 +17,6 @@ Again, this is not a program, you can't execute it.
 
 Me - Bootywizrd002
 
-## Acknowlegments 
-I wanna thank Alex, the writer of tutorial on learncpp.com. If you are interested in learning c++ then check the website out, it's pretty nice. 
+## Acknowledgments 
+I wanna thank Alex, the writer of the tutorial on learncpp.com. If you are interested in learning c++ then check the website out, it's pretty nice. 
 
